@@ -1,2 +1,2 @@
 # javascript-tutorial
-my solutions from learn.javascript.ru
+my solutions from javascript.info
